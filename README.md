@@ -21,4 +21,3 @@ To achieve successful loading of our database, we had to do the following:
 
 More details of this process are provided in the supplemental Jupyter Notebook.
 
-
